@@ -1,3 +1,5 @@
+# Chrome Extension TypeScript Starter
+
 ## Includes the following
 
 * TypeScript
